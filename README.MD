@@ -1,6 +1,7 @@
 # Warcraft III TextEditor (Custom In-Game Control for Map Makers)
 
-https://www.youtube.com/@ai-gamer
+https://www.youtube.com/watch?v=lgQMasnwsk0
+[![Tutorial](https://img.youtube.com/vi/lgQMasnwsk0/maxresdefault.jpg)](https://www.youtube.com/watch?v=lgQMasnwsk0)
 
 This is a custom control for Warcraft III Modding & Map Making. It renders a multi-line editable text area so the user can type long-form text. This might be useful for embedding a Console Terminal in your app to allow users to enter complex commands.
 
